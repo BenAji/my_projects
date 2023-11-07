@@ -1,0 +1,6 @@
+*.dat
+*.log
+logs/
+*.pdf
+*.csv
+*.xlsx
